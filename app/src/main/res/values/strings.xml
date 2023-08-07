@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tuandvph31763_ass</string>
+    <string name="mat_khau"><u>Mật Khẩu</u></string>
+    <string name="tai_khoan"><u>Tài Khoản</u></string>
+    <string name="open">Open\n</string>
+    <string name="close">Close\n</string>
+    <string name="txt_hoten">Họ và tên</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_tendangnhap">Tên đăng nhập</string>
+    <string name="txt_password">Mật khẩu</string>
+    <string name="txt_nhaplaipassword">Nhập lại mật khẩu</string>
+    <string name="txt_nhapmkmoi">Nhập mật khẩu mới</string>
+</resources>
